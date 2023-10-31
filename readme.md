@@ -6,3 +6,4 @@
 1번 명언삭제
 test1
 test12
+test3
